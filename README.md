@@ -56,8 +56,9 @@ pip install -r requirements.txt
 ```
 
 ### 2. Dataset Setup
-1. Download the Yelp dataset from [Yelp Dataset Challenge](https://www.yelp.com/dataset)
-2. Place `yelp_academic_dataset_review.json` in the project root directory
+1. Download the Yelp dataset from [Yelp Dataset](https://www.yelp.com/dataset)
+2. Extract the .tar file
+3. Place `yelp_academic_dataset_review.json` in the project root directory
 
 ### 3. Running the Analysis
 ```bash
