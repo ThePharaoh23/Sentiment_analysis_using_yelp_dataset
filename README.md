@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sentiment_analysis_using_yelp_dataset
 =======
 # Sentiment Analysis Project
